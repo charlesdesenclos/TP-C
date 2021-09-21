@@ -1,0 +1,4 @@
+﻿  Exercice_3.cpp
+c:\users\cdesenclos\source\repos\tp_2\exercice_3\exercice_3.cpp(22): warning C4305: '=' : troncation de 'double' à 'float'
+c:\users\cdesenclos\source\repos\tp_2\exercice_3\exercice_3.cpp(27): warning C4305: '=' : troncation de 'double' à 'float'
+  Exercice_3.vcxproj -> C:\Users\CDesenclos\source\repos\TP_2\Debug\Exercice_3.exe
