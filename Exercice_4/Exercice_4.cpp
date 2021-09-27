@@ -16,7 +16,7 @@ int main()
 	scanf("%c", &sexe);
 	printf("Combien de fois allez vous au cinema par mois");
 	scanf("%d", &nbrcinema);
-	printf("Préférez vous  1 :Quick ou 2: Mac_Do ?");
+	printf("Préférez vous  1 : Quick ou 2: Mac_Do ?");
 	
 	if (preferance == Quick || preferance == Mac_Do)
 	{
