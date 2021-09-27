@@ -26,6 +26,18 @@ int main()
 	{
 		printf("L'ordre croissant des trois nombres est %d %d %d", a, b, c);
 	}
+	else if (c>a && a>b)
+	{
+		printf("L'ordre croissant des trois nombres est %d %d %d", b, a, c);
+	}
+	else if (b>c && c>a)
+	{
+		printf("L'ordre croissant des trois nombres est %d %d %d", a, c, b);
+	}
+	else if (a>c && c>b)
+	{
+		printf("L'ordre croissant des trois nombres est %d %d %d", b, c, a);
+	}
 
 
 }
