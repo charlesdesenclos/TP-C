@@ -18,7 +18,7 @@ int main()
 	scanf("%d", &nbrcinema);
 	printf("Préférez vous  1 :Quick ou 2: Mac_Do ?");
 	
-	if (preferance = Quick || preferance = Mac_Do)
+	if (preferance == Quick || preferance == Mac_Do)
 	{
 		scanf("%c", &preferance);
 	}
